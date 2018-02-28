@@ -1,0 +1,161 @@
+﻿c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ApplicationInsights.config
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Flowers.dll.config
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Flowers.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Flowers.pdb
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Antlr3.Runtime.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\EntityFramework.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\EntityFramework.SqlServer.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.Web.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.WindowsServer.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.ApplicationInsights.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.Google.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Web.Infrastructure.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Newtonsoft.Json.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Owin.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.Helpers.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.Mvc.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.Optimization.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.Razor.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.WebPages.Deployment.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.WebPages.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.WebPages.Razor.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\WebGrease.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.Web.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AI.WindowsServer.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.ApplicationInsights.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.Helpers.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.Mvc.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.Optimization.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.Razor.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.WebPages.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.WebPages.Deployment.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\System.Web.WebPages.Razor.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Antlr3.Runtime.pdb
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Newtonsoft.Json.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\EntityFramework.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\EntityFramework.SqlServer.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.Google.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\System.Web.Helpers.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\System.Web.Mvc.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\System.Web.Optimization.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\System.Web.Razor.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\System.Web.WebPages.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\EntityFramework.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.Owin.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\obj\Debug\Flowers.dll
+c:\users\валерия\documents\visual studio 2015\Projects\Flowers\Flowers\obj\Debug\Flowers.pdb
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\linq2db.dll
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\System.Net.Http.Formatting.dll
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\System.Web.Http.dll
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\System.Web.Http.WebHost.dll
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\linq2db.pdb
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\linq2db.xml
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\System.Net.Http.Formatting.xml
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\System.Web.Http.xml
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\bin\System.Web.Http.WebHost.xml
+C:\Users\Валерия\Documents\Visual Studio 2015\Projects\Flowers\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ApplicationInsights.config
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Flowers.dll.config
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Flowers.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Flowers.pdb
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Newtonsoft.Json.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\linq2db.pdb
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\linq2db.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.AI.Web.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Net.Http.Formatting.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.Http.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.Http.WebHost.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.Helpers.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.Mvc.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.Optimization.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.Razor.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.WebPages.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\System.Web.WebPages.Razor.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Antlr3.Runtime.pdb
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\EntityFramework.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\EntityFramework.SqlServer.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.Security.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\System.Web.Razor.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\EntityFramework.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\obj\Debug\Flowers.dll
+C:\Users\sergey.chehranov\Desktop\Flowers-master\Flowers\obj\Debug\Flowers.pdb

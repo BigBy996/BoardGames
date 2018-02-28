@@ -1,0 +1,53 @@
+﻿@using BoardGames.Models;
+@model IndexListView
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">Название</th>
+        <th scope="col">Производитель</th>
+        <th scope="col">Минимальное число игроков</th>
+        <th scope="col">Максимальное число игроков</th>
+        <th scope="col">Осталось в наличии</th>
+        <th scope="col">Короткое описание</th>
+        <th scope="col">Цена</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var boardGame in Model.BoardGames)
+    {
+        <tr data="@boardGame.Id" onclick="window.location.href='/BoardGame/Details/' + this.getAttribute('data')">
+            <td>@boardGame.Name</td>
+            <td>@boardGame.CreatedBy</td>
+            <td>@boardGame.MinPlayers</td>
+            <td>@boardGame.MaxPlayers</td>
+            <td>@boardGame.LeftAmount</td>
+            <td>@boardGame.ShortDescription</td>
+            <td>@boardGame.Price</td>
+        </tr>
+    } 
+    </tbody>
+</table>
+<style>
+    tr:hover {
+        cursor: pointer;
+        background: #f0f0f0;
+    }
+</style>
+
+<hr/>
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        @foreach (var index in Enumerable.Range(Model.CurrentPage, 5))
+        {
+            <li class="page-item">
+                @Html.ActionLink(index.ToString(), "List", new {currentPage = index}, new { @class = "page-link" })
+            </li>
+        } 
+    </ul>
+</nav>   

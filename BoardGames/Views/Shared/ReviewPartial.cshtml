@@ -1,0 +1,36 @@
+﻿@using BoardGames.Models;
+@model List<Review>
+
+<fieldset>
+    <legend>Отзывы</legend>
+    <table class="table">
+        <thead class="thead-dark">
+        <tr>
+            <th scope="col">Автор</th>
+            <th scope="col">Отзыв</th>
+            <th scope="col">Like</th>
+            <th scope="col">Report</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var review in Model)
+        {
+            if (!string.IsNullOrEmpty(@review.ReportReason))
+            {
+                continue;
+            }
+
+            <tr>
+                <td>@Html.DisplayFor(m => review.Author)</td>
+                <td>@Html.DisplayFor(m => review.Text)</td>
+                <td class="like-btn" data-review="@review.Id">
+                    <span>&#10084;: @Html.DisplayFor(m => review.LikeCount)</span>   
+                </td>
+                <td class="report-btn" data-review="@review.Id">    
+                    <span>&#10060;</span>   
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</fieldset>

@@ -1,0 +1,73 @@
+﻿@using BoardGames.Models;
+@model BoardGame
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+  
+@using (Html.BeginForm()) {    
+    <fieldset>
+        <legend>BoardGame</legend>
+    
+        @Html.HiddenFor(model => model.Id)
+    
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+        </div>
+    
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CreatedBy)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CreatedBy)
+        </div>
+    
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MinPlayers)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.MinPlayers)
+        </div>
+    
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MaxPlayers)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.MaxPlayers)
+        </div>
+    
+        <div class="editor-label">
+            @Html.LabelFor(model => model.LeftAmount)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LeftAmount)
+        </div>        
+        
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ShortDescription)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ShortDescription)
+        </div>
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Price)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Price)
+        </div>
+    
+        <p>
+            <input type="submit" value="Сохранить" />
+        </p>
+    </fieldset>
+}
+    
+<div>
+    @Html.ActionLink("Вернуться к списку", "List")
+</div>

@@ -1,0 +1,86 @@
+﻿@using BoardGames.Models
+@model BoardGame
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<fieldset>
+    <h2>Настольная игра</h2>
+    
+    <h3>@Html.DisplayNameFor(model => model.Name): @Html.DisplayFor(model => model.Name)</h3>
+    
+    <b>
+        @Html.DisplayNameFor(model => model.CreatedBy):
+    </b>
+    <span>
+        @Html.DisplayFor(model => model.CreatedBy)
+    </span>
+    <br/>
+    <b>
+        @Html.DisplayNameFor(model => model.MinPlayers):
+    </b>
+    <span>
+        @Html.DisplayFor(model => model.MinPlayers)
+    </span>
+    <br />
+    <b>
+        @Html.DisplayNameFor(model => model.MaxPlayers):
+    </b>
+    <span>
+        @Html.DisplayFor(model => model.MaxPlayers)
+    </span>
+    <br />
+    <b>
+        @Html.DisplayNameFor(model => model.LeftAmount):
+    </b>
+    <span>
+        @Html.DisplayFor(model => model.LeftAmount)
+    </span>
+    <br />
+    <b>
+        @Html.DisplayNameFor(model => model.ShortDescription):
+    </b>
+    <span>
+        @Html.DisplayFor(model => model.ShortDescription)
+    </span>
+    <br />
+    <b>
+        @Html.DisplayNameFor(model => model.Price):
+    </b>
+    <span>
+        @Html.DisplayFor(model => model.Price)
+    </span>
+    <br />
+    <b>
+        @Html.DisplayNameFor(model => model.AverageMark):
+    </b>
+    <span class="mark">
+        @Html.DisplayFor(model => model.AverageMark, new { @class = "mark" })
+    </span>
+    <br />
+    <span><b> Проголосовать: </b></span>
+    <span class="like-btn-1" data-board-game="@Model.Id">
+        &#10084;   
+     </span>
+    <span class="like-btn-2" data-board-game="@Model.Id">
+        &#10084;   
+     </span>
+    <span class="like-btn-3" data-board-game="@Model.Id">
+        &#10084;   
+     </span>
+    <span class="like-btn-4" data-board-game="@Model.Id">
+        &#10084;   
+     </span>
+    <span class="like-btn-5" data-board-game="@Model.Id">
+        &#10084;   
+     </span>
+</fieldset>
+<p>
+    @Html.ActionLink("Изменить", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Вернуться к списку", "List") |
+    @Html.ActionLink("Добавить отзыв", "Create", "Review", new { boardGameId = Model.Id }, null)
+</p>	   
+
+@Html.Partial("ReviewPartial", Model.Reviews)

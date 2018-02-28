@@ -1,0 +1,44 @@
+﻿@using BoardGames.Models;
+@model List<BoardGame>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">Царство</th>
+        <th scope="col">Отдел</th>
+        <th scope="col">Класс</th>
+        <th scope="col">Домен</th>
+        <th scope="col">Семейство</th>
+        <th scope="col">Порядок</th>
+        <th scope="col">Род</th>
+        <th scope="col">Количество отзывов</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var boardGame in Model)
+    {
+        <tr data="@boardGame.Id" onclick="window.location.href='/BoardGame/Details/' + this.getAttribute('data')">
+            <td>@boardGame.Name</td>
+            <td>@boardGame.CreatedBy</td>
+            <td>@boardGame.MinPlayers</td>
+            <td>@boardGame.MaxPlayers</td>
+            <td>@boardGame.LeftAmount</td>
+            <td>@boardGame.ShortDescription</td>
+            <td>@boardGame.Price</td>
+            <td>@boardGame.CountReview</td>
+        </tr>
+    } 
+    </tbody>
+</table>
+<style>
+    tr:hover {
+        cursor: pointer;
+        background: #f0f0f0;
+    }
+</style>
+
+<hr/>

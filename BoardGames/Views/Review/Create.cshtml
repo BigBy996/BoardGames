@@ -1,0 +1,36 @@
+﻿@using BoardGames.Models;
+@model Review
+
+@{
+    ViewBag.Title = "Создать отзыв";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Создать отзыв</h2>
+
+@using (Html.BeginForm()) {
+    <fieldset>
+        
+		
+        <div class="editor-field">
+            @Html.HiddenFor(model => model.BoardGameId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Text)
+        </div>
+        <div class="editor-field">
+            @Html.TextAreaFor(model => model.Text, new{maxlength = 5000})
+            @Html.ValidationMessageFor(model => model.Text)
+        </div>
+
+        <p>
+            <input type="submit" value="Создать" />
+        </p>
+    </fieldset>
+}
+
+<div>	
+    @Html.ActionLink("Вернуться к настольной игре", "Details", "BoardGame", new {id = Model.BoardGameId} , null) |
+    @Html.ActionLink("Список", "List", "BoardGame")
+</div>

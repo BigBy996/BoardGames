@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Resource/Styles/bootstrap4.css">
+</head>
+<body>
+<nav class="navbar navbar-toggleable-md navbar-light bg-faded bg-primary navbar-inverse">
+    <div class="navbar-collapse collapse">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarText"
+                aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <span class="navbar-brand">BoardGames</span>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    @Html.ActionLink("Главная страница", "List", "BoardGame", null, new {@class = "nav-link"})
+                </li>
+                <li class="nav-item active">
+                    @Html.ActionLink("Топ 20 самых обсуждаемых настольных игр", "Top20", "BoardGame", null, new {@class = "nav-link"})
+                </li>
+                <li class="nav-item active">
+                    @Html.ActionLink("Добавить настольную игру", "Create", "BoardGame", null, new {@class = "nav-link"})
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    @RenderBody()
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+<script src="~/Scripts/addLike.js"></script>
+<script src="~/Scripts/addReport.js"></script>
+<script src="~/Scripts/addMark.js"></script>
+</body>
+</html>
